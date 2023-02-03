@@ -1,0 +1,15 @@
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\bin\Debug\net6.0\BankAutomation.exe
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\bin\Debug\net6.0\BankAutomation.deps.json
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\bin\Debug\net6.0\BankAutomation.runtimeconfig.json
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\bin\Debug\net6.0\BankAutomation.dll
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\bin\Debug\net6.0\BankAutomation.pdb
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\obj\Debug\net6.0\BankAutomation.csproj.AssemblyReference.cache
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\obj\Debug\net6.0\BankAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\obj\Debug\net6.0\BankAutomation.AssemblyInfoInputs.cache
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\obj\Debug\net6.0\BankAutomation.AssemblyInfo.cs
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\obj\Debug\net6.0\BankAutomation.csproj.CoreCompileInputs.cache
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\obj\Debug\net6.0\BankAutomation.dll
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\obj\Debug\net6.0\refint\BankAutomation.dll
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\obj\Debug\net6.0\BankAutomation.pdb
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\obj\Debug\net6.0\BankAutomation.genruntimeconfig.cache
+C:\Users\brakc\source\repos\BankAutomation\BankOtomation\obj\Debug\net6.0\ref\BankAutomation.dll

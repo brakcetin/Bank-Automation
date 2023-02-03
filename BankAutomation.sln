@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAutomation", "BankOtomation\BankAutomation.csproj", "{608F47F2-E3C9-4D47-893E-9776C7151BFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{86832366-3358-4F21-A40F-A3BCCFDA45E7}"
+	ProjectSection(SolutionItems) = preProject
+		users.txt = users.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608F47F2-E3C9-4D47-893E-9776C7151BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608F47F2-E3C9-4D47-893E-9776C7151BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608F47F2-E3C9-4D47-893E-9776C7151BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608F47F2-E3C9-4D47-893E-9776C7151BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ADD419A-6B4A-4964-8F68-0A6C602E36D8}
+	EndGlobalSection
+EndGlobal
